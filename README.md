@@ -1,7 +1,7 @@
 #  Regional Climate Data Analysis (2000–2021)
 
 ##  Overview
-Basic exploratory data analysis of climate trends.
+Basic exploratory data analysis of climate trends
 
 ##  Features
 - Temperature trend analysis
