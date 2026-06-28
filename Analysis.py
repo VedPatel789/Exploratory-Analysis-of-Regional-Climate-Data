@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import os
 
 os.makedirs("outputs", exist_ok=True)
-
 df = pd.read_csv("data/regional_climate_data.csv")
 
 print(df.head())
